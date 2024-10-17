@@ -50,6 +50,13 @@ and improve applications.
 
 These projects, along with others housed within the `github.com/webpack` and `github.com/webpack-contrib`.
 
+### 1.2: Out-of-Scope
+
+- Testing frameworks (e.g., unit, integration, or end-to-end testing tools)
+- API development and handling
+- Server-side rendering directly (although it can integrate with SSR frameworks)
+- Frameworks and libraries that operate in their own capacity.
+
 ## Section 2. Relationship with OpenJS Foundation CPC.
 
 Most large, complex open source communities have both a business and a technical governance model. Technical leadership 

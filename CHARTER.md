@@ -156,7 +156,7 @@ Modifications of the contents of the git repository are made on a collaborative 
 process.
 
 Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found 
-consensus to the TSC for discussion by assigning the `tsc-agenda` tag to a pull request or issue. The TSC voting members 
+consensus to the TSC for discussion. The TSC voting members 
 should serve as the final arbiter where required. The TSC will maintain and publish a list of current Collaborators, as 
 well as a development process guide for Collaborators and Contributors looking to participate in the development effort.
 

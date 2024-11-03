@@ -48,7 +48,7 @@ projects that are integral to the ecosystem such as:
 These enable the handling of different asset types, interacting with webpack in various capacities to monitor builds 
 and improve applications.
 
-These projects, along with others housed within the `github.com/webpack` and `github.com/webpack-contrib`.
+These repositories, along with others housed within the `github.com/webpack` and `github.com/webpack-contrib are owned by the webpack project.`.
 
 ### 1.2: Out-of-Scope
 

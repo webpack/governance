@@ -145,7 +145,7 @@ choose to participate in any vote through abstention.
 
 All changes to this charter must be approved by the CPC.
 
-#### Section 4.2.3. Project Roles
+#### Section 4.3. Other Project Roles
 
 The webpack git repository is maintained by the TSC and additional Collaborators who are added by the TSC voting members 
 on an ongoing basis.

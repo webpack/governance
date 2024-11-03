@@ -33,20 +33,7 @@ in modern web development, helping developers streamline their workflows and bui
   [GitHub Discussions](https://github.com/webpack/webpack/discussions)
 
 In addition to the main repository, `webpack` (bundler), the organization maintains and manages several other core 
-projects that are integral to the ecosystem such as:
-
-- **webpack-dev-server**: Provides a local server with live reloading and hot module replacement, improving developer 
-  productivity.
-- **webpack-cli**: Offers a command-line interface to interact with webpack's build processes and configurations.
-- **webpack-contrib projects**: Includes various loaders, plugins, middlewares and utility repositories such as:
-  - `sass-loader`
-  - `file-loader`
-  - `style-loader`
-  - `webpack-hot-middleware`
-  - `webpack-bundle-analyzer`
-
-These enable the handling of different asset types, interacting with webpack in various capacities to monitor builds 
-and improve applications.
+projects that are integral to the ecosystem such as `webpack-dev-server`, `webpack-cli`,  and `webpack-contrib` projects.
 
 These repositories, along with others housed within the `github.com/webpack` and `github.com/webpack-contrib are owned by the webpack project.`.
 

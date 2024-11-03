@@ -96,7 +96,7 @@ within the webpack project, including:
 * Conduct guidelines.
 * Maintaining the list of additional Collaborators.
 * Development process and any coding standards.
-* Mediating technical conflicts between Collaborators or Foundation projects.
+* Mediating technical conflicts between Collaborators or `webpack` projects.
 
 The TSC voting members will define webpack project's release vehicles.
 

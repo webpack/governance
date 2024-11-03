@@ -42,7 +42,7 @@ These repositories, along with others housed within the `github.com/webpack` and
 - Testing frameworks (e.g., unit, integration, or end-to-end testing tools)
 - API development and handling
 - Server-side rendering directly (although it can integrate with SSR frameworks)
-- Frameworks and libraries that operate in their own capacity.
+- `webpack`-related frameworks and libraries that operate in their own capacity.
 
 ## Section 2. Relationship with OpenJS Foundation CPC.
 

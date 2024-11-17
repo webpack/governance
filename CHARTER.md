@@ -39,9 +39,9 @@ These repositories, along with others housed within the `github.com/webpack` and
 
 ### 1.2: Out-of-Scope
 
-- Testing frameworks (e.g., unit, integration, or end-to-end testing tools)
-- API development and handling
-- Server-side rendering directly (although it can integrate with SSR frameworks)
+- Testing frameworks (e.g., unit, integration, or end-to-end testing tools).
+- APIs and tools that uses webpack in any way and are not in the webpack organization.
+- Server-side rendering directly (although it can integrate with SSR frameworks).
 - `webpack`-related frameworks and libraries that operate in their own capacity.
 
 ## Section 2. Relationship with OpenJS Foundation CPC.
@@ -62,8 +62,7 @@ cast votes when consensus is not reached on an issue.
 TSC memberships are not time-limited. There is no maximum size of the TSC. The TSC must have at least four voting 
 members.
 
-There is no specific set of requirements or qualifications for TSC membership beyond these rules. The TSC may add 
-additional voting members to the TSC by a standard TSC motion. A TSC member can be removed from the TSC by voluntary 
+The TSC may add additional voting members to the TSC by a standard TSC motion. A TSC member can be removed from the TSC by voluntary 
 resignation or by a standard TSC motion. A standard TSC motion can be used to change a regular TSC member to a voting 
 TSC member, or to change a voting TSC member to a regular TSC member.
 

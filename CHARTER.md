@@ -166,7 +166,7 @@ well as a development process guide for Collaborators and Contributors looking t
   promoted to a Collaborator by the TSC. Contributors should rarely be blocked by the TSC and never by the CPC or 
   OpenJS Foundation Board.
 
-* **Project**: a technical collaboration effort, e.g. a subsystem, that is organized through the project creation 
+* **Project**: a technical collaboration effort, e.g. a subsystem, that is organized through the webpack project creation 
   process and approved by the TSC.
 
 ----

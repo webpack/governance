@@ -144,21 +144,6 @@ choose to participate in any vote through abstention.
 
 All changes to this charter must be approved by the CPC.
 
-#### Section 4.3. Other Project Roles
-
-The webpack git repository is maintained by the TSC and additional Collaborators who are added by the TSC voting members 
-on an ongoing basis.
-
-Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project.
-These individuals are identified by the TSC and their addition as Collaborators is discussed during a TSC meeting. 
-Modifications of the contents of the git repository are made on a collaborative basis as defined in the development 
-process.
-
-Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found 
-consensus to the TSC for discussion. The TSC voting members 
-should serve as the final arbiter where required. The TSC will maintain and publish a list of current Collaborators, as 
-well as a development process guide for Collaborators and Contributors looking to participate in the development effort.
-
 ## Section 5. Definitions
 
 * **Contributors**: contribute code or other artifacts, but do not have the right to commit to the code base. 

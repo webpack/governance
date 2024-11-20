@@ -62,7 +62,7 @@ cast votes when consensus is not reached on an issue.
 TSC memberships are not time-limited. There is no maximum size of the TSC. The TSC must have at least four voting 
 members.
 
-The TSC may add additional voting members to the TSC by a standard TSC motion. A TSC member can be removed from the TSC by voluntary 
+The TSC may add additional voting members to the TSC through meeting consensus. The consensus requires at least five TSC members to be present to approve a new voting member.  A TSC member can be removed from the TSC by voluntary 
 resignation or by a standard TSC motion. A standard TSC motion can be used to change a regular TSC member to a voting 
 TSC member, or to change a voting TSC member to a regular TSC member.
 

@@ -93,9 +93,9 @@ within the webpack project, including:
 * Project governance and process.
 * GitHub repository management.
 * Conduct guidelines.
-* Maintaining the list of additional Collaborators.
+* Maintaining the list of additional collaborators.
 * Development process and any coding standards.
-* Mediating technical conflicts between Collaborators or `webpack` projects.
+* Mediating technical conflicts between collaborators or `webpack` projects.
 
 The TSC voting members will define webpack project's release vehicles.
 

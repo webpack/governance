@@ -106,8 +106,7 @@ process will establish guidelines for how the developers and community will oper
 appropriate timelines for TSC review (e.g. agenda items must be published at least a certain number of hours in advance 
 of a TSC meeting).
 
-The TSC and entire technical community will follow any processes as may be specified by the OpenJS Foundation Board 
-relating to the intake and license compliance review of contributions, including the OpenJS Foundation IP Policy.
+Note that project operations remain subject to any relevant policy or process specified by the OpenJS Foundation board or Cross Project Council.
 
 ### Section 4.2. Decision-making, Voting, and/or Elections
 

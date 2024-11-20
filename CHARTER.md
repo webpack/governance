@@ -92,7 +92,7 @@ within the webpack project, including:
 * Technical direction.
 * Project governance and process.
 * GitHub repository management.
-* Conduct guidelines.
+* Conduct and maintain guidelines defined by the OpenJS Foundation Cross Project Council.
 * Maintaining the list of additional collaborators.
 * Development process and any coding standards.
 * Mediating technical conflicts between collaborators or `webpack` projects.

@@ -129,7 +129,7 @@ term of one year. The Chair and voting CPC member may be (but are not required t
 hold annual elections to select a TSC Chairperson and voting CPC member; there are no limits on the number of terms a 
 TSC Chairperson or voting CPC member may serve.
 
-#### Section 4.2.2. Voting
+#### Section 4.2.2. Decision Making
 
 For internal project decisions, Collaborators shall operate under Lazy Consensus. The TSC voting members shall establish 
 appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods) within the 

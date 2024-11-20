@@ -91,7 +91,7 @@ within the webpack project, including:
 * Release quality standards.
 * Technical direction.
 * Project governance and process.
-* GitHub repository hosting.
+* GitHub repository management.
 * Conduct guidelines.
 * Maintaining the list of additional Collaborators.
 * Development process and any coding standards.

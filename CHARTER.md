@@ -141,7 +141,6 @@ consensus the moderator will ask "Does anyone object?" as a final call for disse
 For all votes, a simple majority of all TSC voting members for, or against, the issue wins. A TSC voting member may 
 choose to participate in any vote through abstention. Votes are needed to add new members, remove members from the TSC or deciding in project critical issues, such as roadmapping major versions of webpack core.
 
-All changes to this charter must be approved by the CPC.
 
 ## Section 5. Definitions
 

@@ -131,14 +131,8 @@ TSC Chairperson or voting CPC member may serve.
 
 #### Section 4.2.2. Decision Making
 
-For webpack projects' decisions, Collaborators shall operate under Lazy Consensus. The TSC voting members shall establish 
-appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods) within the 
-development process.
-
-The TSC voting members follow a [Consensus Seeking][] decision making model. When an agenda item has appeared to reach a 
-consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
-
-For all votes, a simple majority of all TSC voting members for, or against, the issue wins. A TSC voting member may 
+For webpack projects' decisions, Collaborators and TSC voting members shall operate under Lazy Consensus. When an agenda item has appeared to reach a 
+consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus. For all votes, a simple majority of all TSC voting members for, or against, the issue wins. A TSC voting member may 
 choose to participate in any vote through abstention. Votes are needed to add new members, remove members from the TSC or deciding in project critical issues, such as roadmapping major versions of webpack core.
 
 

@@ -131,7 +131,7 @@ TSC Chairperson or voting CPC member may serve.
 
 #### Section 4.2.2. Decision Making
 
-For internal project decisions, Collaborators shall operate under Lazy Consensus. The TSC voting members shall establish 
+For webpack projects' decisions, Collaborators shall operate under Lazy Consensus. The TSC voting members shall establish 
 appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods) within the 
 development process.
 

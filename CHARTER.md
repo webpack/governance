@@ -123,11 +123,6 @@ choose to participate in any vote through abstention. Votes are needed to add ne
 
 ## Section 5. Definitions
 
-* **Contributors**: contribute code or other artifacts, but do not have the right to commit to the code base.
-  Contributors work with the project's Collaborators to have code committed to the code base. A Contributor may be
-  promoted to a Collaborator by the TSC. Contributors should rarely be blocked by the TSC and never by the CPC or
-  OpenJS Foundation Board.
-
 * **Project**: a technical collaboration effort, e.g. a subsystem, that is organized through the webpack organization creation.
 
 ----

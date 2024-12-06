@@ -77,7 +77,7 @@ Responsibility for directing individual meetings may be delegated by the TSC Cha
 Minutes or an appropriate recording shall be taken and made available to the community through accessible public
 postings.
 
-TSC voting members are expected to regularly participate in TSC meetings and issue triaging. Meeting notes will be released such that absent members of the TSC can provide feedback in any way.
+TSC voting members are expected to regularly participate in TSC meetings and issue triaging.
 
 A TSC voting member is automatically converted to a TSC regular member if they do not participate in three consecutive
 TSC votes.

@@ -35,7 +35,7 @@ in modern web development, helping developers streamline their workflows and bui
 In addition to the main repository, `webpack` (bundler), the organization maintains and manages several other core
 projects that are integral to the ecosystem such as `webpack-dev-server`, `webpack-cli`,  and `webpack-contrib` projects.
 
-These repositories, along with others housed within the `github.com/webpack` and `github.com/webpack-contrib are owned by the webpack project.`.
+These repositories, along with others housed within the `github.com/webpack` and `github.com/webpack-contrib` are owned by the webpack project.
 
 ### 1.2: Out-of-Scope
 

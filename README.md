@@ -65,7 +65,7 @@ The TSC has final authority over this project, including:
 * Maintaining the list of collaborators
 
 The current list of TSC members is in
-[the project README](https://github.com/webpack/webpack/blob/main/README.md#current-project-team-members).
+[the project README](https://github.com/webpack/webpack/blob/main/README.md#current-project-members).
 
 The [TSC Charter][] governs the operations of the TSC. All changes to the
 Charter need approval by the OpenJS Foundation Cross-Project Council (CPC).

@@ -72,7 +72,7 @@ The WG has final authority over this project including:
 * Maintaining the list of additional Collaborators
 
 For the current list of WG members, see the project
-[README.md](https://github.com/webpack/webpack/blob/main/README.md#current-project-team-members).
+[README.md](https://github.com/webpack/webpack/blob/main/README.md#current-project-members).
 
 ### Collaborators
 
@@ -98,7 +98,7 @@ modification. See _Consensus Seeking Process_ below for further detail
 on the consensus model used for governance.
 
 For the current list of Collaborators, see the project
-[README.md](https://github.com/webpack/webpack/blob/main/README.md#current-project-team-members).
+[README.md](https://github.com/webpack/webpack/blob/main/README.md#current-project-members).
 
 ### WG Membership
 

@@ -19,15 +19,15 @@ moderation request, please see [Requesting Moderation][]
 
 ## Applicability
 
-This policy applies to all repositories under the webpack
-GitHub Organization and all webpack Working Groups. This policy also
+This policy applies to all repositories under the `webpack` and `webpack-contrib`
+GitHub Organizations and all webpack Working Groups. This policy also
 applies to the [webpack Slack Community](https://webpack.slack.com),
 supported by the Admin team of the Slack organization.
 
 ## Terms
 
 * *Collaborator* refers to any individual with configured triage role or higher
-  in any webpack GitHub organization repository. See
+  in any webpack GitHub organizations repositories. See
   [GitHub's Repository roles documentation][] for more information.
 * *TSC* refers to the [webpack Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
@@ -36,10 +36,10 @@ supported by the Admin team of the Slack organization.
   address Code of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
   permissions for an individual Collaborator's GitHub account from *all*
-  webpack GitHub Organization repositories as well as removing the account from
-  the webpack GitHub Organization membership.
+  webpack GitHub Organizations repositories as well as removing the account from
+  the webpack GitHub Organizations membership.
 * *Block* refers to the act of prohibiting an individual GitHub account from any
-  further participation in the webpack GitHub Organization. A block may be
+  further participation in the webpack GitHub Organizations. A block may be
   *temporary* or *indefinite*.
   * This Moderation Policy applies only to blocking from the organization.
     Individuals may choose to
@@ -114,7 +114,7 @@ a Post from Moderation.
   Only the TSC is allowed to moderate posts on webpack/moderation.
 * The TSC serves as the final arbiter for all Moderation issues.
 * TSC members may Remove or Block an individual from the webpack
-  GitHub Organization.
+  GitHub Organizations.
 * For any Removal or Blocking action, an issue describing the reasons for the
   action, and identifying the Github account being acted upon, must be posted
   to the Moderation Repository with an explanation provided by the Moderation
@@ -165,7 +165,7 @@ of the [Code of Conduct][].
   * A new issue within the private webpack/moderation repository.
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
-  participation in the webpack GitHub organization.
+  participation in the webpack GitHub organizations.
 * If it is clear that there is no intention to collaborate in good faith,
   it is possible to hide comments of non-Collaborators. In that case there is
   an exception to the reporting requirement described above.
@@ -247,7 +247,7 @@ be discussed in any public forum or social media service.
 Any Collaborator found to be violating the privacy of the webpack/moderation
 repository by repeatedly sharing or discussing the details of webpack/moderation
 issues in any public forum or social media service risks being permanently
-removed from the webpack GitHub organization.
+removed from the webpack GitHub organizations.
 
 ## Escalation of Issues
 

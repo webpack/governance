@@ -60,7 +60,7 @@ behavior that may be subject to Moderation.
 Anyone may request Moderation of a Post. Requesting Moderation of a Post can be
 accomplished in one of four ways:
 
-* Via the [report@webpack.js.org][] email address,
+* Via the [webpack-security@openjsf.org][] email address,
 * Via private email to individual TSC members,
 * Via a new Post in the same thread as the Post being requested for Moderation,
 * Via a new Post in the private webpack/moderation repository.
@@ -68,10 +68,10 @@ accomplished in one of four ways:
 Note that Collaborators may Moderate non-Collaborator Posts at any time without
 submitting an initial request (see: [Non-Collaborator Posts][]).
 
-Use of the [report@webpack.js.org][] email address -- or private email to individual
+Use of the [webpack-security@openjsf.org][] email address -- or private email to individual
 TSC members -- is appropriate when the individual requesting the
 Moderation does not feel comfortable directly or publicly making the request.
-All emails sent to the [report@webpack.js.org][] address are currently forwarded
+All emails sent to the [webpack-security@openjsf.org][] address are currently forwarded
 to all members of the TSC.
 
 Requests should contain as much information and context as possible, including
@@ -293,5 +293,5 @@ _This document is an adaption of the Node.js project [Moderation Policy](https:/
 [Privacy of the webpack/moderation Repository]: #privacy-of-the-webpackmoderation-repository
 [Escalation of Issues]: #escalation-of-issues
 [Modifications to This Policy]: #modifications-to-this-policy
-[report@webpack.js.org]: mailto:report@webpack.js.org
+[webpack-security@openjsf.org]: mailto:webpack-security@openjsf.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account

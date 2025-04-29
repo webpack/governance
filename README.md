@@ -72,7 +72,7 @@ Charter need approval by the OpenJS Foundation Cross-Project Council (CPC).
 
 ### TSC meetings
 
-The TSC meets in a Slack conference call or Slack thread. Each year,
+The TSC meets in a Discord conference call or Discord thread. Each year,
 the TSC elects a chair to run the meetings.
 
 Any community member can create a GitHub issue asking that the TSC review

@@ -1,4 +1,3 @@
-# Moderation policy
 
 If you are not a member of the webpack GitHub Organization and wish to submit a
 moderation request, please see [Requesting Moderation][]

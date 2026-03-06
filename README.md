@@ -85,7 +85,8 @@ meeting, the TSC chair ensures that someone opens a pull request with the
 minutes.
 
 The TSC seeks to resolve as many issues as possible outside meetings using
-[the webpack's governance repository issue tracker](https://github.com/webpack/governance/issues).
+- [the webpack's governance repository issue tracker](https://github.com/webpack/governance/issues).
++ [the webpack governance repository issue tracker](https://github.com/webpack/governance/issues).
 
 The process in the issue tracker is:
 
@@ -112,6 +113,7 @@ or else the discussion will continue. Simple majority wins.
 
 ----
 
-_This document is an adaption of the [Node.js project Governance Model](https://github.com/nodejs/node/blob/main/GOVERNANCE.md) and the [ESlint project Governance Model](https://github.com/eslint/eslint/blob/main/docs/src/contribute/governance.md)_
+_This document is an adaption of the [Node.js project Governance Model](https://github.com/nodejs/node/blob/main/GOVERNANCE.md) and the -[ESlint project Governance Model](https://github.com/eslint/eslint/blob/main/docs/src/contribute/governance.md)
++ [ESLint project Governance Model](https://github.com/eslint/eslint/blob/main/docs/src/contribute/governance.md)
 
 [TSC Charter]: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md

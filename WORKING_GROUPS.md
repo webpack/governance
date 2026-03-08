@@ -213,4 +213,4 @@ Responsibilities include:
 
 _This document is an adaption of the Node.js project [Working Groups Charter](https://github.com/nodejs/TSC/blob/main/WORKING_GROUPS.md)_
 
-[Technical Steering Committee (TSC)]: ./README.md#technical-steering-committee
+[Technical Steering Committee (TSC)]: https://github.com/webpack/governance/blob/main/README.md#technical-steering-committee

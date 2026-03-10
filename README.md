@@ -95,6 +95,9 @@ The process in the issue tracker is:
   member approvals and no TSC voting member opposition.
 * If there is an extended impasse, a TSC member may make a motion for a vote.
 
+Meetings are posted on [webpack/tsc issues with the label "meeting"](https://github.com/webpack/tsc/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Ameeting).
+and you can subscribe to them through [OpenJS Foundation Public Calendar](https://calendar.openjsf.org).
+
 ## Consensus Seeking Process
 
 The TSC follows a

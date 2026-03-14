@@ -51,5 +51,5 @@ which outlines the process of making an official complaint.
 
 _This document is an adaption of the Node.js project [Member Expectations](https://github.com/nodejs/admin/blob/main/MemberExpectations.md)_
 
-[Code of Conduct]: https://github.com/webpack/webpack/blob/main/CODE_OF_CONDUCT.md
-[TSC]: ./CHARTER.md
+[Code of Conduct]: https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md
+[TSC]: https://github.com/webpack/governance/blob/main/CHARTER.md

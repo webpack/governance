@@ -112,7 +112,7 @@ Note that project operations remain subject to any relevant policy or process sp
 
 #### Section 4.2.1. Elections
 
-These processes are described in webpack's [GOVERNANCE](GOVERNANCE.md) document.
+These processes are described in webpack's [GOVERNANCE](https://github.com/webpack/governance/blob/HEAD/README.md) document.
 
 #### Section 4.2.2. Decision Making
 

@@ -21,7 +21,7 @@ moderation request, please see [Requesting Moderation][]
 
 This policy applies to all repositories under the `webpack` and `webpack-contrib`
 GitHub Organizations and all webpack Working Groups. This policy also
-applies to the [webpack Slack Community](https://webpack.slack.com),
+applies to the [webpack Discord Community](https://discord.gg/webpack),
 supported by the Admin team of the Slack organization.
 
 ## Terms

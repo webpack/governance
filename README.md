@@ -117,4 +117,4 @@ or else the discussion will continue. Simple majority wins.
 
 _This document is an adaption of the [Node.js project Governance Model](https://github.com/nodejs/node/blob/main/GOVERNANCE.md) and the [ESlint project Governance Model](https://github.com/eslint/eslint/blob/main/docs/src/contribute/governance.md)_
 
-[TSC Charter]: https://github.com/nodejs/TSC/blob/HEAD/TSC-Charter.md
+[TSC Charter]: https://github.com/webpack/governance/blob/main/CHARTER.md
